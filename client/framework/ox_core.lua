@@ -1,3 +1,4 @@
+local Ox = require '@ox_core.lib.init' --[[@as OxClient]]
 local config = require "config"
 local ox = {}
 local localOfficer = {}

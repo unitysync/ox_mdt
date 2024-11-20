@@ -1,3 +1,4 @@
+local Ox = require '@ox_core.lib.init' --[[@as OxServer]]
 local officers = require 'server.officers'
 local units = require 'server.units'
 local registerCallback = require 'server.utils.registerCallback'
